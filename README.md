@@ -4,7 +4,7 @@
 
 ##  Sobre Mim ☕️
 -  😄 Meu nome é Natália eu tenho 31 anos
--  🎓 Atualmente estou cursando 6º semestre de Desenvolvimento de Software e Multiplataforma na FATEC de São José dos Campos.
+-  🎓 Desenvolvimento de Software e Multiplataforma na FATEC de São José dos Campos.
 
 <br>
 
